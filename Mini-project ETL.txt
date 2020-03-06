@@ -1,0 +1,12 @@
+Mini-project ETL
+
+Team members
+Ximena Fernandez Pineda
+Jose Marcos Marmolejo Perez
+
+Databases used
+World Happiness Index 2019 
+The Economic Freedom Index 2019
+
+Activities
+In this project we will compare the standing of countries in the World Happiness Index with the Economic Freedom Index, both from 2019. The primary key will be Country Name, used to compare the databases. 
